@@ -33,7 +33,7 @@ Ez a projekt egy **boid algoritmust** mutat be, ahol a felhasználó irányítan
 
 **boid beállítás**
 - boid is friendly: ha a boidok látókörébe kerül a játékos, akkor megpróbálnak hozzá eljutni
-- boid is natural: a boidok nem vesznek  tudomást a játékosról
+- boid is natural: a boidok nem vesznek tudomást a játékosról
 - boid is scared: ha a boidok látókörébe kerül a játékos, akkor elkezdenek menekülni tőle, **ez az alapértelmezett beállítás**
 
 ## Guide (F1)
@@ -52,7 +52,7 @@ Controls:
 - ESC - kilépés a programból
 - F1 - használati útmutató kinyitás/becsukás
 - 1. JOBB KATTINTÁS - elmenti a kör kezdő pozícióját
-- 2. JOBB KATTINTÁS - elmenti a kor átmérőjét
+- 2. JOBB KATTINTÁS - elmenti a kör átmérőjét
 
 ## Fordítás
 
